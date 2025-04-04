@@ -139,3 +139,7 @@ You can watch a demo of my app in action on YouTube. Click the link below to see
 https://youtu.be/VOg3r7VM3v4
 OR
 https://youtu.be/VOg3r7VM3v4?si=YDaX__X7M0g6UUw5
+
+GitHub Repository
+You can access the complete source code for the Meal Suggestion App on GitHub:
+https://github.com/ST10476385/IMAD5112Assignment1.git
